@@ -1,0 +1,16 @@
+D:\workspace\take-blip-bootcamp\dio-series\bin\Debug\net5.0\dio.series.exe
+D:\workspace\take-blip-bootcamp\dio-series\bin\Debug\net5.0\dio.series.deps.json
+D:\workspace\take-blip-bootcamp\dio-series\bin\Debug\net5.0\dio.series.runtimeconfig.json
+D:\workspace\take-blip-bootcamp\dio-series\bin\Debug\net5.0\dio.series.runtimeconfig.dev.json
+D:\workspace\take-blip-bootcamp\dio-series\bin\Debug\net5.0\dio.series.dll
+D:\workspace\take-blip-bootcamp\dio-series\bin\Debug\net5.0\ref\dio.series.dll
+D:\workspace\take-blip-bootcamp\dio-series\bin\Debug\net5.0\dio.series.pdb
+D:\workspace\take-blip-bootcamp\dio-series\obj\Debug\net5.0\dio.series.csproj.AssemblyReference.cache
+D:\workspace\take-blip-bootcamp\dio-series\obj\Debug\net5.0\dio.series.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\take-blip-bootcamp\dio-series\obj\Debug\net5.0\dio.series.AssemblyInfoInputs.cache
+D:\workspace\take-blip-bootcamp\dio-series\obj\Debug\net5.0\dio.series.AssemblyInfo.cs
+D:\workspace\take-blip-bootcamp\dio-series\obj\Debug\net5.0\dio.series.csproj.CoreCompileInputs.cache
+D:\workspace\take-blip-bootcamp\dio-series\obj\Debug\net5.0\dio.series.dll
+D:\workspace\take-blip-bootcamp\dio-series\obj\Debug\net5.0\ref\dio.series.dll
+D:\workspace\take-blip-bootcamp\dio-series\obj\Debug\net5.0\dio.series.pdb
+D:\workspace\take-blip-bootcamp\dio-series\obj\Debug\net5.0\dio.series.genruntimeconfig.cache
